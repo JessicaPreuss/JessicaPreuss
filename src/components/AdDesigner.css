@@ -1,0 +1,30 @@
+.AdDesignerHeader {
+  font-family: "Caveat", cursive;
+  color: black;
+}
+.AdDesignerFlavor {
+  font-family: "Caveat", cursive;
+}
+
+.light {
+  color: #2222;
+  width: 14em;
+  height: 10em;
+  border: 1px solid #2222;
+  text-align: center;
+}
+.dark {
+  width: 14em;
+  height: 10em;
+  border: 1px solid #2222;
+  text-align: center;
+  color: #ffff;
+  background: #2222;
+}
+
+button {
+  background-color: #0e3c7e;
+  color: #ffff;
+  margin: 5px;
+  border-radius: 5px;
+}

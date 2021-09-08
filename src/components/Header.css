@@ -1,0 +1,10 @@
+.Header {
+    font-family: 'Caveat', cursive;
+    color: #0e3c7e;
+    box-shadow: 5px 5px 5px #aaaa;
+    margin: 0.5em auto;
+    width: 100%;
+}
+.HeaderContainer {
+    text-align: center;
+}
